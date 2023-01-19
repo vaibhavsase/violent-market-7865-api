@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "email": "kalejayesh20@gmail.com",
+      "password": "1234",
+      "verified": "1234",
+      "remember": "on",
+      "country": "India",
+      "firstName": "jayesh",
+      "Lastname": "kale",
+      "street": "jeur",
+      "city": "Ahmednagar",
+      "zip": "414601",
+      "phone": "9999999999",
+      "DOB": "1999-09-20",
+      "intresteArray": [
+        "Fishing",
+        "camping",
+        "LadiesClothing",
+        "OutdoorRecreation",
+        "Hunting",
+        "Shoes&Boots",
+        "Email Surveys"
+      ],
+      "id": 1
+    },
+    {
+      "email": "kalejayesh12@gmail.com",
+      "password": "12345",
+      "verified": "12345",
+      "remember": "on",
+      "country": "India",
+      "firstName": "jayesh",
+      "Lastname": "kale",
+      "street": "jeur",
+      "city": "Ahmednagar",
+      "zip": "414601",
+      "phone": "9999999999",
+      "DOB": "1999-09-20",
+      "intresteArray": [
+        "Fishing",
+        "camping",
+        "LadiesClothing",
+        "OutdoorRecreation",
+        "Hunting",
+        "Shoes&Boots",
+        "Email Surveys"
+      ],
+      "id": 2
+    },
+    {
+      "email": "kalejayesh12@gmail.com",
+      "password": "1234",
+      "verified": "1234",
+      "remember": "on",
+      "country": "India",
+      "firstName": "jayesh",
+      "Lastname": "kale",
+      "street": "jeur",
+      "city": "Ahmednagar",
+      "zip": "414601",
+      "phone": "9999999999",
+      "DOB": "1999-09-20",
+      "intresteArray": [
+        "Fishing",
+        "camping",
+        "LadiesClothing",
+        "OutdoorRecreation",
+        "Hunting",
+        "Shoes&Boots",
+        "Email Surveys"
+      ],
+      "id": 3
+    },
+    {
+      "email": "tushartawale@gmail.com",
+      "password": "1234",
+      "verified": "1234",
+      "remember": "on",
+      "country": "India",
+      "firstName": "tushar",
+      "Lastname": "tawale",
+      "street": "jeur",
+      "city": "Ahmednagar",
+      "zip": "414601",
+      "phone": "9370838415",
+      "DOB": "2001-10-03",
+      "intresteArray": [
+        "Fishing",
+        "camping",
+        "LadiesClothing",
+        "Hunting",
+        "Shoes&Boots",
+        "Email Surveys"
+      ],
+      "id": 4
+    },
+    {
+      "email": "akashfulari@gamil.com",
+      "password": "1234",
+      "verified": "1234",
+      "remember": "on",
+      "country": "India",
+      "firstName": "akash",
+      "Lastname": "fulari",
+      "street": "jeur",
+      "city": "Ahmednagar",
+      "zip": "414601",
+      "phone": "7778798081",
+      "DOB": "1999-02-03",
+      "intresteArray": [
+        "Fishing",
+        "camping",
+        "Shooting",
+        "Hunting",
+        "Boating",
+        "Men's Clothing"
+      ],
+      "id": 5
+    },
+    {
+      "email": "satya@gmail.com",
+      "password": "1234",
+      "verified": "1234",
+      "remember": "on",
+      "country": "India",
+      "firstName": "satyapal",
+      "Lastname": "sase ",
+      "street": "sase  mala jeur ba",
+      "city": "ahmednagar",
+      "zip": "4140823",
+      "phone": "7038215080",
+      "DOB": "2000-02-20",
+      "intresteArray": [
+        "LadiesClothing",
+        "Shooting",
+        "OutletStore"
+      ],
+      "id": 6
+    },
+    {
+      "email": "satya@gmail.com",
+      "password": "1234",
+      "verified": "1234",
+      "remember": "on",
+      "country": "India",
+      "firstName": "satyapal",
+      "Lastname": "sase ",
+      "street": "sase  mala jeur ba",
+      "city": "ahmednagar",
+      "zip": "4140823",
+      "phone": "7038215080",
+      "DOB": "2000-02-20",
+      "intresteArray": [
+        "LadiesClothing",
+        "Shooting",
+        "OutletStore"
+      ],
+      "id": 7
+    }
+  ]
+}

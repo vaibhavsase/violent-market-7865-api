@@ -1,0 +1,25 @@
+{
+  "name": "violent-market-7865-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavsase/violent-market-7865-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavsase/violent-market-7865-api/issues"
+  },
+  "homepage": "https://github.com/vaibhavsase/violent-market-7865-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json": "^11.0.0",
+    "server": "^1.0.38"
+  }
+}
